@@ -38,7 +38,7 @@ import {
   btnAddAvatarSvgLoad,
 } from "./RegistrationScreen.styled.js";
 import backgroundImg from "../assets/img/background.jpg";
-//import SvgAddButton from "../../../assets/svg/SvgAddButton";
+import SvgAddButton from "../assets/svg/SvgAddButton";
 
 const RegistrationScreen = () => {
   const [isShowKeyboard, setIsShowKeyboard] = useState(false);
