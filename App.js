@@ -15,8 +15,8 @@ export default function App() {
   }
 
   return (
-    // <RegistrationScreen />
     <View style={styles.container}>
+      {/* <RegistrationScreen /> */}
       <Text> start working on your app!</Text>
       <StatusBar style="auto" />
     </View>
